@@ -1,0 +1,1 @@
+This is a C++ program simulating a messanger system where the user has a Facebook, Email, and Phone. They can check for recieved messages on each of these systems, send messages, copy messages, check if messages are equal, add to sent messages, add contacts, and display contact list. The makefile is included.
